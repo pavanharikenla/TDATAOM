@@ -1,4 +1,4 @@
-package com.vz.tg.model;
+package com.vz.tdataom.model;
 
 public class Gnip {
 	

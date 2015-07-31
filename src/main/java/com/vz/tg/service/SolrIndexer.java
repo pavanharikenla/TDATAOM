@@ -25,7 +25,7 @@ import org.joda.time.DateTimeZone;
 import com.google.common.primitives.Ints;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
-import com.vz.tg.model.Tweet;
+import com.vz.tdataom.model.Tweet;
 import com.vz.tg.util.TweetIdExtractor;
 
 public class SolrIndexer {
