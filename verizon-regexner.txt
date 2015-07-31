@@ -1,0 +1,21 @@
+iPhone	Verizon_Smartphones_iPhone
+Samsung	Verizon_Products_Samsung	ORGANIZATION
+LG	Verizon_Products_LG	ORGANIZATION
+Blackberry	Verizon_Products_Blackberry
+Motorola	Verizon_Products_Motorola	ORGANIZATION
+iPhone (3GS|4|4s|5|5s|5c|6)	Verizon_Smartphones_iPhone
+Samsung galaxy	Verizon_Smartphones_Samsung
+Samsung galaxy (S3|S4|S5|S6)	Verizon_Smartphones_Samsung
+Samsung (S3|S4|S5|S6)	Verizon_Smartphones_Samsung
+Apple	Verizon_Products_Apple	ORGANIZATION
+Apple iPad	Verizon_Tablets_Apple
+Samsung Galaxy Tab	Verizon_Tablets_Samsung
+Samsung Tab	Verizon_Tablets_Samsung
+LG G Pad	Verizon_Tablets_LG
+FiOS (Internet|TV|bundles)	Verizon_FiOS
+Motorola (DROID|Moto)	Verizon_Smartphones_Motorola
+HTC (One|Desire)	Verizon_Smartphones_HTC
+Android	Verizon_Product_OS_Android
+Apple iOS	Verizon_Product_OS_iOS	
+Blackberry OS	Verizon_Product_OS_Blackberry
+Windows OS	Verizon_Product_OS_Windows

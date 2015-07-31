@@ -1,0 +1,2 @@
+(Arts|Laws|Science|Engineering)	DEGREE
+
