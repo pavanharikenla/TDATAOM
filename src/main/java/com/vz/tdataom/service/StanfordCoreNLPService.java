@@ -1,4 +1,4 @@
-package com.vz.tg.service;
+package com.vz.tdataom.service;
 
 import java.util.ArrayList;
 import java.util.List;

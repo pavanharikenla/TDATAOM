@@ -1,4 +1,4 @@
-package com.vz.tg.service;
+package com.vz.tdataom.service;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
