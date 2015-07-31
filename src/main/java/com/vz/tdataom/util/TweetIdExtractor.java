@@ -1,4 +1,4 @@
-package com.vz.tg.util;
+package com.vz.tdataom.util;
 
 import com.google.common.primitives.Longs;
 

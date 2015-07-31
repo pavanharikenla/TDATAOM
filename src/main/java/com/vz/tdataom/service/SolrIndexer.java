@@ -26,7 +26,7 @@ import com.google.common.primitives.Ints;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import com.vz.tdataom.model.Tweet;
-import com.vz.tg.util.TweetIdExtractor;
+import com.vz.tdataom.util.TweetIdExtractor;
 
 public class SolrIndexer {
 
