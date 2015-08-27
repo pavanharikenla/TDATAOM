@@ -1,0 +1,12 @@
+language: java
+install: mvn -X clean test install
+sudo: true
+deploy:
+  provider: cloudfoundry 
+  api: https://api.run.pivotal.io
+  username: pavan.harikenla@gmail.com
+  password:
+    secure: j4xSDRAps+MLP7aX6KY6vdlw4uRPBMqCDwz5tu0opYQYBEtzCo//wlnlg2OiUX3NqVLA1l9fUYUCUcPdXfATLatR5A+/CpySD3DtcXUSF+kabSoNYb8d7Jgoty3TgiX6T+on+mpzwHtxJ3gKN/1IvNHLdW8DMVaqLq8UiFSA+na59gKEpzY2y4WQrP492aquKxyHxIiT5PowCrFrRJOaFqaMs66zs0b6f47lcfzvE+PjXhyMk5m7iLpWjZfhi1QPtnucvixTgil7o4KnniXGkabKHgF93GXh+Zyjaq2wMcQz4x6hatX7vEENt9iLrEcpTA6Gi+TZ8umsYCvEjVqNLZdIYtq1TbZ0TgzkhTWJZ9K/9T8YIkC0N6VodzqiwfKQtJ+9VpkjcSo5JBzwZ8M6sunfM8IqJLA9LpE8jPTo8Z8ezzgPswA9aSa0qChtjGIYt8Pig2xdpx7Nfs/J8Q7ZbKu+eDJHD+zj5imTuMLsnyor7p49dDic8x+TE/5Hn5YUrsCtIQU+LPci7TBxHfeVQsIEEnSyyJSHN73ybYCd9BkEK2CX9z81hXEyWFw42DunHuUcq82pPwSsKy3NNaZsQpjknuY6tbnuIDuM91Ua55Fg19Mo0lkdOxdrHRUA33PBswCfRvH0TgmXWlIk67q6xZ2w4GdaALKIKowRJoe95Ow=
+  organization: TDATAOM
+  space: development
+
